@@ -1,4 +1,4 @@
-# PythonOOP
+# python_for_data_science
 Final group project for Python class. Used a Kaggle dataset to analyze the effect of weather on the game of baseball.
 
 ## Contents
