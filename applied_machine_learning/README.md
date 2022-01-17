@@ -1,5 +1,5 @@
-# DataSciencePortfolio
-Data science projects to demonstrate knowledge and skills
+# Applied Machine Learning
+Final project for Applied Machine Learning class
 
 ## Contents
 - Python OOP: an object oriented programming project using Python 3
