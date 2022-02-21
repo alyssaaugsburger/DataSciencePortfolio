@@ -2,5 +2,5 @@
 Final project for Experiments and Causal Inference class
 
 ## Contents
-- Logo Not Logo Final Presentation.pdf - Final presentation
-- Logo_NoLogo_Final_Project.ipynb - Final notebook
+- Final Report.pdf - Final report
+- W241 Final Project - Facebook Marketplace Experiment.pdf - Final presentation
